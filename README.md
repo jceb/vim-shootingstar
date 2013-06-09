@@ -6,6 +6,11 @@ Like the magic * but start matching at the cursor position.
 Installation
 ------------
 
+I recommend installing [pathogen.vim](https://github.com/tpope/vim-pathogen), and than execute the following commands:
+
+    cd ~/.vim/bundle
+    git clone git://github.com/jceb/vim-shootingstar.git
+
 Usage
 -----
 
