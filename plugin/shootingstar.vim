@@ -28,3 +28,5 @@ endfunction
 
 nnoremap <Leader>* /\M\<<C-r>=<SID>Shootingstar()<CR>\><CR>
 nnoremap <Leader># ?\M\<<C-r>=<SID>Shootingstar()<CR>\><CR>
+nnoremap <Leader>g* /\M<C-r>=<SID>Shootingstar()<CR><CR>
+nnoremap <Leader>g# ?\M<C-r>=<SID>Shootingstar()<CR><CR>
