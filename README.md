@@ -9,7 +9,7 @@ Installation
 I recommend installing [pathogen.vim](https://github.com/tpope/vim-pathogen), and then execute the following commands:
 
     cd ~/.vim/bundle
-    git clone git://github.com/jceb/vim-shootingstar.git
+    git clone https://github.com/jceb/vim-shootingstar.git
 
 Usage
 -----
